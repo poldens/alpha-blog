@@ -1,1 +1,1 @@
-This is a readme file of first Ruby on Rails Complete Developer Course
+v.0.1 This is a readme file of first Ruby on Rails Complete Developer Course
