@@ -1,2 +1,5 @@
-v.0.1 This is a readme file of first Ruby on Rails Complete Developer Course
-v.0.2 changed repo url from hhtps to ssh, testing
+Validations for User class:
+
+ - username must be present and unique
+ - email must be present and unique
+ - validate email format using regex
