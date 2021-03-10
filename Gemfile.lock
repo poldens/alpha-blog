@@ -202,7 +202,7 @@ DEPENDENCIES
   rails (~> 6.0.3, >= 6.0.3.5)
   rails_12factor
   sass-rails
-  sdoc (~> 0.4.0)
+  sdoc (~> 0.4.2)
   spring
   sprockets-rails (= 2.3.3)
   sqlite3
